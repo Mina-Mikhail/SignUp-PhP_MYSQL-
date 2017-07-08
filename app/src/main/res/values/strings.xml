@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PhP_MySQL_Registration</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="successfully_logged_in_your_mail_is">Successfully Logged In, Your Mail is</string>
+    <string name="log_out">Log out</string>
+    <string name="already_registered_log_in">Already Registered, Log In</string>
+    <string name="username">Username</string>
+    <string name="create_new_account">Create new account</string>
+</resources>
